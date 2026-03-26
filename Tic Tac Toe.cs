@@ -97,8 +97,6 @@ public class Board
     }
         
     
-    
-    
     int AskNumber(string question, int min, int max)
     {
         while (true)
