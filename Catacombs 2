@@ -1,6 +1,6 @@
 
-Color color1 = new Color(31, 31, 31);
-Color color2 = new Color(69, 69, 69);
+Color color1 = new Color(30, 30, 30);
+Color color2 = new Color(60, 60, 60);
 
 color1.Print();
 color2.Print();
